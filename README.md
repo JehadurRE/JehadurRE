@@ -60,7 +60,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [sample](https://dev.to/jehadurre/sample-3a63)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...]()
