@@ -84,6 +84,8 @@
 
 </details>
 
+[![Spotify](https://jehadurre.vercel.app/api/spotify)](https://open.spotify.com/user/gxi5hlc4yd3tj3qdaju8rqsyn)
+
 [website]: https://jehadurRE.me
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/JehadurRE
