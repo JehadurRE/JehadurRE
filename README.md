@@ -80,7 +80,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=c&show_icons=true&hide_border=true" />
+  <img align="left" alt="stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jehadurre&show_icons=true&hide_border=true" />
 
 </details>
 
