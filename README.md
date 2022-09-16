@@ -72,6 +72,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/JehadurRE/JehadurRE/pull/2) in [JehadurRE/JehadurRE](https://github.com/JehadurRE/JehadurRE)
+2. 🎉 Merged PR [#1](https://github.com/JehadurRE/JehadurRE/pull/1) in [JehadurRE/JehadurRE](https://github.com/JehadurRE/JehadurRE)
 <!--END_SECTION:activity-->  
 </details>
 
