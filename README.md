@@ -72,8 +72,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/XronTrix10/Telegram-Leecher/issues/20#issuecomment-2171826357) in [XronTrix10/Telegram-Leecher](https://github.com/XronTrix10/Telegram-Leecher)
-2. [object Object]
+1. 🎉 Merged PR [#3](https://github.com/JehadurRE/JehadurRE/pull/3) in [JehadurRE/JehadurRE](https://github.com/JehadurRE/JehadurRE)
+2. 🗣 Commented on [#20](https://github.com/XronTrix10/Telegram-Leecher/issues/20#issuecomment-2171826357) in [XronTrix10/Telegram-Leecher](https://github.com/XronTrix10/Telegram-Leecher)
 <!--END_SECTION:activity-->  
 </details>
 
