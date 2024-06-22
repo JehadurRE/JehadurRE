@@ -72,8 +72,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/JehadurRE/JehadurRE/pull/3) in [JehadurRE/JehadurRE](https://github.com/JehadurRE/JehadurRE)
-2. 🗣 Commented on [#20](https://github.com/XronTrix10/Telegram-Leecher/issues/20#issuecomment-2171826357) in [XronTrix10/Telegram-Leecher](https://github.com/XronTrix10/Telegram-Leecher)
+1. ❗ Opened issue [#135](https://github.com/devblackops/Terminal-Icons/issues/135) in [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons)
+2. 🎉 Merged PR [#3](https://github.com/JehadurRE/JehadurRE/pull/3) in [JehadurRE/JehadurRE](https://github.com/JehadurRE/JehadurRE)
 <!--END_SECTION:activity-->  
 </details>
 
