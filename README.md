@@ -72,7 +72,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#135](https://github.com/devblackops/Terminal-Icons/issues/135) in [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons)
+1. 🗣 Commented on [#3222](https://github.com/pmndrs/react-three-fiber/issues/3222#issuecomment-2440237740) in [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 2. 🎉 Merged PR [#3](https://github.com/JehadurRE/JehadurRE/pull/3) in [JehadurRE/JehadurRE](https://github.com/JehadurRE/JehadurRE)
 <!--END_SECTION:activity-->  
 </details>
