@@ -72,8 +72,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3222](https://github.com/pmndrs/react-three-fiber/issues/3222#issuecomment-2440237740) in [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-2. 🎉 Merged PR [#3](https://github.com/JehadurRE/JehadurRE/pull/3) in [JehadurRE/JehadurRE](https://github.com/JehadurRE/JehadurRE)
+1. 🗣 Commented on [#1](https://github.com/shivammaggu/TP-Link-TL-WR840N-V5-OpenWRT/issues/1#issuecomment-2471653519) in [shivammaggu/TP-Link-TL-WR840N-V5-OpenWRT](https://github.com/shivammaggu/TP-Link-TL-WR840N-V5-OpenWRT)
+2. 🗣 Commented on [#3222](https://github.com/pmndrs/react-three-fiber/issues/3222#issuecomment-2440237740) in [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 <!--END_SECTION:activity-->  
 </details>
 
