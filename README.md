@@ -72,7 +72,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/google-ai-edge/gallery/issues/60#issuecomment-2952373963) in [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
+1. 🚀 Published release [v1.1.0 - Enhanced CLI and Help System](https://github.com/JehadurRE/arb-metadata-tools/releases/tag/v1.1.0) in [JehadurRE/arb-metadata-tools](https://github.com/JehadurRE/arb-metadata-tools)
 2. 🗣 Commented on [#3222](https://github.com/pmndrs/react-three-fiber/issues/3222#issuecomment-2440237740) in [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 <!--END_SECTION:activity-->  
 </details>
