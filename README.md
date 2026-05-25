@@ -72,8 +72,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30426](https://github.com/openclaw/openclaw/issues/30426#issuecomment-4017997076) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-2. 🗣 Commented on [#3222](https://github.com/pmndrs/react-three-fiber/issues/3222#issuecomment-2440237740) in [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+1. ❌ Merged PR [#1](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
+2. 💪 Opened PR [#1](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
 <!--END_SECTION:activity-->  
 </details>
 
