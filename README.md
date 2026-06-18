@@ -72,8 +72,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
-2. 💪 Opened PR [#74](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
+1. 💪 Opened PR [#76](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
+2. 💪 Opened PR [#75](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
 <!--END_SECTION:activity-->  
 </details>
 
