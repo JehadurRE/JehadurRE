@@ -60,11 +60,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Algorithmic Logo Design: Building Numerical Integration into the CyArm SVG](https://dev.to/jehadurre/algorithmic-logo-design-building-numerical-integration-into-the-cyarm-svg-4ehj)
+- [The Art of CSS: Rendering a Chrysanthemum using only HTML and CSS](https://dev.to/jehadurre/the-art-of-css-rendering-a-chrysanthemum-using-only-html-and-css-3j6d)
 - [Implementing Premium Tech Typography in CSS: A shutdownX Case Study](https://dev.to/jehadurre/implementing-premium-tech-typography-in-css-a-shutdownx-case-studynewline-1hbg)
 - [Stop Nesting: How to Optimize Your Data Mapping Performance](https://dev.to/jehadurre/stop-nesting-how-to-optimize-your-data-mapping-performance-4p1j)
 - [Building an Apple Mail Channel Plugin for OpenClaw](https://dev.to/jehadurre/building-an-apple-mail-channel-plugin-for-openclaw-4cgk)
-- [I Built a Native Apple Mail Plugin for OpenClaw](https://dev.to/jehadurre/i-built-a-native-apple-mail-plugin-for-openclaw-2kf4)
-- [sample2](https://dev.to/jehadurre/sample2-536f)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...]()
