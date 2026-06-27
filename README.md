@@ -75,8 +75,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#100](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
-2. 💪 Opened PR [#100](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
+1. ❌ Merged PR [#103](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
+2. 💪 Opened PR [#103](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
 <!--END_SECTION:activity-->  
 </details>
 
