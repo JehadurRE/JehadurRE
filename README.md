@@ -75,8 +75,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
-2. 💪 Opened PR [#135](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
+1. 🗣 Commented on [#31409](https://github.com/anomalyco/opencode/issues/31409#issuecomment-4927739129) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. 💪 Opened PR [#136](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
 <!--END_SECTION:activity-->  
 </details>
 
