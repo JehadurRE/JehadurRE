@@ -60,11 +60,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Code: Why Soft Skills Are the True Multiplier for Developers](https://dev.to/jehadurre/beyond-code-why-soft-skills-are-the-true-multiplier-for-developers-5l7)
+- [Prompt Engineering is Dead, System Design Matters More](https://dev.to/jehadurre/prompt-engineering-is-dead-system-design-matters-more-3hjd)
+- [Why Most AI Agents Fail in Production: Bridging the Infrastructure Gap](https://dev.to/jehadurre/why-most-ai-agents-fail-in-production-bridging-the-infrastructure-gap-2mbb)
+- [Building an Agentic Coding Assistant Without Breaking the Bank](https://dev.to/jehadurre/building-an-agentic-coding-assistant-without-breaking-the-bank-3abf)
 - [Building NLP Tools for Languages That Big Tech Ignores](https://dev.to/jehadurre/building-nlp-tools-for-languages-that-big-tech-ignores-2api)
-- [The Invisible 99%: Why Low-Resource Languages Need More AI Research](https://dev.to/jehadurre/the-invisible-99-why-low-resource-languages-need-more-ai-research-31i6)
-- [Conquering Complexity: Building a Robust Bangla Proofreading API](https://dev.to/jehadurre/conquering-complexity-building-a-robust-bangla-proofreading-api-15p4)
-- [Algorithmic Logo Design: Building Numerical Integration into the CyArm SVG](https://dev.to/jehadurre/algorithmic-logo-design-building-numerical-integration-into-the-cyarm-svg-4ehj)
-- [The Art of CSS: Rendering a Chrysanthemum using only HTML and CSS](https://dev.to/jehadurre/the-art-of-css-rendering-a-chrysanthemum-using-only-html-and-css-3j6d)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...]()
