@@ -75,8 +75,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#217](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
-2. 💪 Opened PR [#216](undefined) in [JehadurRE/portfolio.jehadurre.me](https://github.com/JehadurRE/portfolio.jehadurre.me)
+1. 🚀 Published release [TTBMS v0.0.8-snapshot.111 (Build 111)](https://github.com/JehadurRE/ttbms-releases/releases/tag/v0.0.8-snapshot.111) in [JehadurRE/ttbms-releases](https://github.com/JehadurRE/ttbms-releases)
+2. 🚀 Published release [TTBMS v0.0.8-snapshot.110 (Build 110)](https://github.com/JehadurRE/ttbms-releases/releases/tag/v0.0.8-snapshot.110) in [JehadurRE/ttbms-releases](https://github.com/JehadurRE/ttbms-releases)
 <!--END_SECTION:activity-->  
 </details>
 
