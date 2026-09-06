@@ -75,7 +75,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#12996](https://github.com/EclipseFdn/open-vsx.org/issues/12996) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+1. 🚀 Published release [TTBMS v0.0.8-snapshot.113 (Build 113)](https://github.com/JehadurRE/ttbms-releases/releases/tag/v0.0.8-snapshot.113) in [JehadurRE/ttbms-releases](https://github.com/JehadurRE/ttbms-releases)
 2.  Labeled issue [#12996](https://github.com/EclipseFdn/open-vsx.org/issues/12996) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 <!--END_SECTION:activity-->  
 </details>
