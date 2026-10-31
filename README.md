@@ -75,8 +75,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [TTBMS v0.0.8-snapshot.120 (Build 120)](https://github.com/JehadurRE/ttbms-releases/releases/tag/v0.0.8-snapshot.120) in [JehadurRE/ttbms-releases](https://github.com/JehadurRE/ttbms-releases)
-2. 🚀 Published release [TTBMS v0.0.8-snapshot.119 (Build 119)](https://github.com/JehadurRE/ttbms-releases/releases/tag/v0.0.8-snapshot.119) in [JehadurRE/ttbms-releases](https://github.com/JehadurRE/ttbms-releases)
+1. 🚀 Published release [v1.0.0 - Production Release (Manifest V3)](https://github.com/JehadurRE/rightclick-unchained/releases/tag/v1.0.0) in [JehadurRE/rightclick-unchained](https://github.com/JehadurRE/rightclick-unchained)
+2. 🚀 Published release [TTBMS v0.0.8-snapshot.120 (Build 120)](https://github.com/JehadurRE/ttbms-releases/releases/tag/v0.0.8-snapshot.120) in [JehadurRE/ttbms-releases](https://github.com/JehadurRE/ttbms-releases)
 <!--END_SECTION:activity-->  
 </details>
 
