@@ -75,8 +75,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [TTBMS v0.0.8-snapshot.125 (Build 125)](https://github.com/JehadurRE/ttbms-releases/releases/tag/v0.0.8-snapshot.125) in [JehadurRE/ttbms-releases](https://github.com/JehadurRE/ttbms-releases)
-2. 🚀 Published release [TTBMS v0.0.8-snapshot.124 (Build 124)](https://github.com/JehadurRE/ttbms-releases/releases/tag/v0.0.8-snapshot.124) in [JehadurRE/ttbms-releases](https://github.com/JehadurRE/ttbms-releases)
+1. 🚀 Published release [TTBMS v0.0.8-snapshot.126 (Build 126)](https://github.com/JehadurRE/ttbms-releases/releases/tag/v0.0.8-snapshot.126) in [JehadurRE/ttbms-releases](https://github.com/JehadurRE/ttbms-releases)
+2. 🚀 Published release [TTBMS v0.0.8-snapshot.125 (Build 125)](https://github.com/JehadurRE/ttbms-releases/releases/tag/v0.0.8-snapshot.125) in [JehadurRE/ttbms-releases](https://github.com/JehadurRE/ttbms-releases)
 <!--END_SECTION:activity-->  
 </details>
 
