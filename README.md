@@ -75,8 +75,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary> 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-2. 🚀 Published release [TTBMS v0.0.8-snapshot.133 (Build 133)](https://github.com/JehadurRE/ttbms-releases/releases/tag/v0.0.8-snapshot.133) in [JehadurRE/ttbms-releases](https://github.com/JehadurRE/ttbms-releases)
+1. 💪 Opened PR [#5](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+2. ❌ Merged PR [#4](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
 <!--END_SECTION:activity-->  
 </details>
 
