@@ -1,19 +1,8 @@
-<!--
-  Apply this file as README.md in JehadurRE/JehadurRE (the special profile repo).
-  Kept from the previous README:
-  - The BLOG-POST-LIST markers so your existing dev.to workflow can keep filling posts.
-  - The activity markers (START_SECTION:activity) so that workflow can keep running.
-  - Working social URLs (website, X, LinkedIn, Instagram).
-  Removed / fixed:
-  - GitHub stats username was crackplatoonbd (a follower). Now JehadurRE.
-  - Empty YouTube "latest videos" block and empty "more blog posts" href.
-  - Spotify widget (could not verify it was your account).
-  - Custom badge pointing at the Garbaze repo, "Cyber Army" / 2022 goals / template codeSTACKr icons (Gatsby, Deno, GraphQL were not verified from your public repos).
-  - Icon links that pointed at youtube.com/.
-  After pasting, confirm the LinkedIn URL (see github/profile.txt) and re-run your activity/blog GitHub Actions if PR links still show as "undefined".
--->
+## It's Me , JehadurRE [Cyber Army](https://jehadurre.me) 👋
 
-## Hi, I'm Jehadur Rahman Emran
+[![Custom badge](https://img.shields.io/endpoint?color=%230c93ad&logo=JR%20Group&logoColor=cyan&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FJehadurRE%2FGarbaze%2Fmain%2Fprofile.json)](https://jehadurre.me)
+
+### Jehadur Rahman Emran
 
 Software engineer from Bangladesh. I build tools for Bangla and other low-resource scripts, Flutter and TypeScript libraries, and small AI-agent plugins.
 
