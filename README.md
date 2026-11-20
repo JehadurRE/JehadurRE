@@ -1,63 +1,56 @@
-## It's Me , JehadurRE [Cyber Army][website] 👋
+<!--
+  Apply this file as README.md in JehadurRE/JehadurRE (the special profile repo).
+  Kept from the previous README:
+  - The BLOG-POST-LIST markers so your existing dev.to workflow can keep filling posts.
+  - The activity markers (START_SECTION:activity) so that workflow can keep running.
+  - Working social URLs (website, X, LinkedIn, Instagram).
+  Removed / fixed:
+  - GitHub stats username was crackplatoonbd (a follower). Now JehadurRE.
+  - Empty YouTube "latest videos" block and empty "more blog posts" href.
+  - Spotify widget (could not verify it was your account).
+  - Custom badge pointing at the Garbaze repo, "Cyber Army" / 2022 goals / template codeSTACKr icons (Gatsby, Deno, GraphQL were not verified from your public repos).
+  - Icon links that pointed at youtube.com/.
+  After pasting, confirm the LinkedIn URL (see github/profile.txt) and re-run your activity/blog GitHub Actions if PR links still show as "undefined".
+-->
 
+## Hi, I'm Jehadur Rahman Emran
 
+Software engineer from Bangladesh. I build tools for Bangla and other low-resource scripts, Flutter and TypeScript libraries, and small AI-agent plugins.
 
-[![Custom badge](https://img.shields.io/endpoint?color=%230c93ad&logo=JR%20Group&logoColor=cyan&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FJehadurRE%2FGarbaze%2Fmain%2Fprofile.json)][website]
+**[bijoy2unicode](https://github.com/JehadurRE/Bijoy2Unicode)** is the flagship: a MIT-licensed TypeScript library and [browser app](https://bijoy2unicode.jehadurre.me) that converts legacy Bijoy / Sutonny MJ Bangla text and Word documents to Unicode. The npm package is [`bijoy2unicode`](https://www.npmjs.com/package/bijoy2unicode).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/JehadurRE?style=social)](https://twitter.com/JehadurRE)
+[![Website](https://img.shields.io/badge/Website-jehadurre.me-0f172a?style=flat-square)](https://jehadurre.me)
+[![npm](https://img.shields.io/npm/v/bijoy2unicode?style=flat-square&logo=npm)](https://www.npmjs.com/package/bijoy2unicode)
+[![X](https://img.shields.io/badge/X-@JehadurRE-111?style=flat-square)](https://x.com/JehadurRE)
+[![dev.to](https://img.shields.io/badge/dev.to-jehadurre-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/jehadurre)
 
-## I'm a Student, Developer, and Learner!!
+### What I work on
 
-- 📖 I’m currently learning everything 🤣
-- 🎓 I’m looking to collaborate with other content creators
-- 🎯 2022 Goals: Contribute more to Open Source projects
-- 🌸🌸💗
+- **Bangla / Unicode tooling** — [Bijoy2Unicode](https://github.com/JehadurRE/Bijoy2Unicode), [bengali_pdf](https://github.com/JehadurRE/bengali_pdf) (HarfBuzz-shaped searchable Bengali PDF for Flutter), [syloti-converter-api-express](https://github.com/JehadurRE/syloti-converter-api-express) (Bangla ↔ Syloti Nagri ↔ phonetic).
+- **Flutter & Dart libraries** — [arb-metadata-tools](https://github.com/JehadurRE/arb-metadata-tools) (PyPI; ARB metadata for i18n), [go_router_back_handler](https://github.com/JehadurRE/go_router_back_handler) (pub.dev; back button on GoRouter v13+).
+- **Editor / desktop plugins** — [markdown-to-google-docs](https://github.com/JehadurRE/markdown-to-google-docs) (VS Code extension `md2gdocs`), [openclaw-apple-mail](https://github.com/JehadurRE/openclaw-apple-mail) (Apple Mail channel plugin for OpenClaw / Hermes).
+- **Apps** — [smart-iptv-viewer](https://github.com/JehadurRE/smart-iptv-viewer) (React Native + Expo IPTV client), [rightclick-unchained](https://github.com/JehadurRE/rightclick-unchained) (Manifest V3 privacy-first Chrome extension), and [Lekhok](https://github.com/JehadurRE/Lekhok), an earlier Kotlin blogging app.
+- **In progress** — [OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist), a live examination / LMS platform (TanStack Start). Still being packaged; see the repo README.
 
-### Connect with me:
+### Tech I use in public repos
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+TypeScript · JavaScript · Python · Dart / Flutter · Kotlin · React · Next.js · Node.js · React Native / Expo · Vite · TanStack
 
-<br />
+### Connect
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/)
+- Website: [jehadurre.me](https://jehadurre.me)
+- GitHub: [JehadurRE](https://github.com/JehadurRE)
+- dev.to: [jehadurre](https://dev.to/jehadurre)
+- Hashnode: [jehadurre](https://hashnode.com/@jehadurre)
+- X: [@JehadurRE](https://x.com/JehadurRE)
+- LinkedIn: [jehadurre](https://www.linkedin.com/in/jehadurre)
+- Instagram: [emran.jehadur](https://instagram.com/emran.jehadur)
+- npm: [bijoy2unicode](https://www.npmjs.com/package/bijoy2unicode) · PyPI: [arb-metadata-tools](https://pypi.org/project/arb-metadata-tools/)
+- Email: emran.jehadur@gmail.com
 
 ---
 
-### 📕 Latest Blog Posts
+### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
 - [Beyond Code: Why Soft Skills Are the True Multiplier for Developers](https://dev.to/jehadurre/beyond-code-why-soft-skills-are-the-true-multiplier-for-developers-5l7)
@@ -67,35 +60,22 @@
 - [Building NLP Tools for Languages That Big Tech Ignores](https://dev.to/jehadurre/building-nlp-tools-for-languages-that-big-tech-ignores-2api)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...]()
+[More on dev.to →](https://dev.to/jehadurre)
 
 ---
 
-
 <details>
-  <summary>:zap: Recent GitHub Activity</summary> 
+  <summary>Recent GitHub activity</summary>
+
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-2. ❌ Merged PR [#4](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-<!--END_SECTION:activity-->  
+<!--END_SECTION:activity-->
+
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub stats</summary>
 
-  <img align="left" alt="stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=crackplatoonbd&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub stats for JehadurRE" src="https://github-readme-stats.vercel.app/api?username=JehadurRE&show_icons=true&hide_border=true" />
+  <img alt="Top languages for JehadurRE" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JehadurRE&layout=compact&hide_border=true" />
 
 </details>
-
-[![Spotify](https://novatorem-rho-two.vercel.app/api/spotify)](https://open.spotify.com/user/gxi5hlc4yd3tj3qdaju8rqsyn)
-
-[website]: https://jehadurRE.me
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/JehadurRE
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/emran.jehadur
-[linkedin]: https://www.linkedin.com/in/jehadur-rahman/
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
