@@ -57,16 +57,16 @@ TypeScript · JavaScript · Python · Dart / Flutter · Kotlin · React · Next.
   <summary>Recent GitHub activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#429](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/429#issuecomment-7027569289) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-2. 🗣 Commented on [#4](https://github.com/dstushar7/converter.thetechguybd.com/issues/4#issuecomment-7027565111) in [dstushar7/converter.thetechguybd.com](https://github.com/dstushar7/converter.thetechguybd.com)
-3. 💪 Opened PR [#55](undefined) in [banglakit/awesome-bangla](https://github.com/banglakit/awesome-bangla)
-4. 💪 Opened PR [#7](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-5. 💪 Opened PR [#6](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-6. 💪 Opened PR [#5](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-7. ❌ Merged PR [#4](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-8. 💪 Opened PR [#4](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-9. ❌ Merged PR [#3](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-10. 💪 Opened PR [#3](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+1. 💪 Opened PR [#10](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+2. 💪 Opened PR [#9](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+3. 💪 Opened PR [#8](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+4. 🗣 Commented on [#429](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/429#issuecomment-7027569289) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+5. 🗣 Commented on [#4](https://github.com/dstushar7/converter.thetechguybd.com/issues/4#issuecomment-7027565111) in [dstushar7/converter.thetechguybd.com](https://github.com/dstushar7/converter.thetechguybd.com)
+6. 💪 Opened PR [#55](undefined) in [banglakit/awesome-bangla](https://github.com/banglakit/awesome-bangla)
+7. 💪 Opened PR [#7](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+8. 💪 Opened PR [#6](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+9. 💪 Opened PR [#5](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+10. ❌ Merged PR [#4](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
 <!--END_SECTION:activity-->
 
 </details>
