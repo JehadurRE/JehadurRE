@@ -57,16 +57,16 @@ TypeScript · JavaScript · Python · Dart / Flutter · Kotlin · React · Next.
   <summary>Recent GitHub activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-2. 🚀 Published release [v1.0.2](https://github.com/JehadurRE/go_router_back_handler/releases/tag/v1.0.2) in [JehadurRE/go_router_back_handler](https://github.com/JehadurRE/go_router_back_handler)
-3. 🚀 Published release [v1.0.2](https://github.com/JehadurRE/Bijoy2Unicode/releases/tag/v1.0.2) in [JehadurRE/Bijoy2Unicode](https://github.com/JehadurRE/Bijoy2Unicode)
-4. 💪 Opened PR [#10](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-5. 💪 Opened PR [#9](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-6. 💪 Opened PR [#8](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
-7. 🗣 Commented on [#429](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/429#issuecomment-7027569289) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-8. 🗣 Commented on [#4](https://github.com/dstushar7/converter.thetechguybd.com/issues/4#issuecomment-7027565111) in [dstushar7/converter.thetechguybd.com](https://github.com/dstushar7/converter.thetechguybd.com)
-9. 💪 Opened PR [#55](undefined) in [banglakit/awesome-bangla](https://github.com/banglakit/awesome-bangla)
-10. 💪 Opened PR [#7](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+1. 💪 Opened PR [#13](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+2. 💪 Opened PR [#12](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+3. 💪 Opened PR [#11](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+4. 🚀 Published release [v1.0.2](https://github.com/JehadurRE/go_router_back_handler/releases/tag/v1.0.2) in [JehadurRE/go_router_back_handler](https://github.com/JehadurRE/go_router_back_handler)
+5. 🚀 Published release [v1.0.2](https://github.com/JehadurRE/Bijoy2Unicode/releases/tag/v1.0.2) in [JehadurRE/Bijoy2Unicode](https://github.com/JehadurRE/Bijoy2Unicode)
+6. 💪 Opened PR [#10](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+7. 💪 Opened PR [#9](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+8. 💪 Opened PR [#8](undefined) in [JehadurRE/OnneshaAssist](https://github.com/JehadurRE/OnneshaAssist)
+9. 🗣 Commented on [#429](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/429#issuecomment-7027569289) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+10. 🗣 Commented on [#4](https://github.com/dstushar7/converter.thetechguybd.com/issues/4#issuecomment-7027565111) in [dstushar7/converter.thetechguybd.com](https://github.com/dstushar7/converter.thetechguybd.com)
 <!--END_SECTION:activity-->
 
 </details>
