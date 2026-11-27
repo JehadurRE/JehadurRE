@@ -42,11 +42,11 @@ TypeScript · JavaScript · Python · Dart / Flutter · Kotlin · React · Next.
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Two tiny gists for Bijoy Unicode in TypeScript](https://dev.to/jehadurre/two-tiny-gists-for-bijoy-unicode-in-typescript-4aio)
 - [English in Calibri survived: why a Bijoy converter has to check the font first](https://dev.to/jehadurre/english-in-calibri-survived-why-a-bijoy-converter-has-to-check-the-font-first-4ec4)
 - [I built a Bijoy Unicode converter that leaves your English &lpar;and your .docx fonts&rpar; alone](https://dev.to/jehadurre/i-built-a-bijoy-unicode-converter-that-leaves-your-english-and-your-docx-fonts-alone-26j4)
 - [Beyond Code: Why Soft Skills Are the True Multiplier for Developers](https://dev.to/jehadurre/beyond-code-why-soft-skills-are-the-true-multiplier-for-developers-5l7)
 - [Prompt Engineering is Dead, System Design Matters More](https://dev.to/jehadurre/prompt-engineering-is-dead-system-design-matters-more-3hjd)
-- [Why Most AI Agents Fail in Production: Bridging the Infrastructure Gap](https://dev.to/jehadurre/why-most-ai-agents-fail-in-production-bridging-the-infrastructure-gap-2mbb)
 <!-- BLOG-POST-LIST:END -->
 
 [More on dev.to →](https://dev.to/jehadurre)
